@@ -29,7 +29,8 @@ Algorithms:
 Searching and Sorting:
 Read up on all sorting and searching algorithms
 
-# Ex 1: (would be better if implemented in C/C++, Java, JS)
+# Ex 1:
+(would be better if implemented in C/C++, Java, JS)
 Implement Insertion, Selection, Quick and Merge sort in your favorite language.
 The program should be such that it should run from the command window 
 I/P: Sequence of Numbers
@@ -39,7 +40,8 @@ Understand the basic difference between each
 Uploading to Git: ex1_name.py
 
 
-# Ex 2: (would be better if implemented in C/C++, Java, JS)
+# Ex 2:
+(would be better if implemented in C/C++, Java, JS)
 Implement Searching Algorithms: Sequential Search and Binary Search
 User should provide number/name to be searched
 Output: Position of the string or number 
