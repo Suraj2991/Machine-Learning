@@ -2,13 +2,14 @@
 Every week this Site will be updated with Readings of a particular CS and ML algorithms, mainly focussing on Dynamic Programming and/or Un/Supervised learning.
 The algorithms get tougher with every passing week. At some point later next year, we delve into Probabilistic Inference, Deep learning, etc
 
-I will provide Links to Datasets, Reading material and at the end of that we should upload a program implementing said algorithm/s in the language of our choosing. (C/C++, R, Python, Java, JS (maybe))
+I will provide Links to Datasets, Reading material and at the end of the week (Sunday) we should upload a program implementing said algorithm/s in the language of our choosing. (C/C++, R, Python, Java, JS (maybe))
 
 You must have : Elements of Statistical Learning 
 I will provide tons of sites to read and check out. You can also do the same if you come across something useful.
 
 
-Week 1: Since it is the first week and since I'm traveling :P, we'll start easy
+# Week 1: 
+Since it is the first week and since I'm traveling :P, we'll start easy
 
 Machine Learning:
 Intro to ML 
